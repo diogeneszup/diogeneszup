@@ -1,6 +1,5 @@
 # Diógenes Chagas
 [![Linkedin Badge](https://img.shields.io/badge/-diogeneschagas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogeneschagas/)](https://www.linkedin.com/in/diogeneschagas/)
-[![Gmail Badge](https://img.shields.io/badge/-diogenes.chagas@zup.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogenes.chagas@zup.com.br)](mailto:diogenes.chagas@zup.com.br)
 
 
 ### Hello, world! 👋 
